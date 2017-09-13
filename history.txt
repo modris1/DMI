@@ -94,3 +94,72 @@
    94  ls -la
    95  history
    96  history > history.txt
+   97  ls -la
+   98  cat history.txt
+   99  echo $0
+  100  man echo
+  101  echo Tecmint is a community of Linux Nerds
+  102  $ x=10
+  103  x=10
+  104  echo x=10
+  105  x=10
+  106  $x=10
+  107  echo $x
+  108  echo \n\tcaw\n\tmani\n\tsauc\n\tmodris
+  109  echo \n\t caw \n\t mani \n\t sauc \n\t modris
+  110  echo \n caw \n mani \n sauc \n modris
+  111  echo \ncaw \nmani \nsauc \nmodris
+  112  echo -e \ncaw \nmani \nsauc \nmodris
+  113  echo -e "\ncaw \nmani \nsauc \nmodris"
+  114  y="caw"
+  115  echo $y Artur
+  116  a=2
+  117  b=3
+  118  c=a+b
+  119  echo $c
+  120  c=$a+$b
+  121  echo $c
+  122  c=$"(($a + $b))"
+  123  echo $c
+  124  c=$"(("$a + $b"))"
+  125  expr $a + $b
+  126  c=expr $a + $b
+  127* c=expr $a + $b
+  128  c="expr $a + $b"
+  129  echo $c
+  130  expr $a + $b
+  131  "(("$a + $b"))"
+  132  "(($a + $b))"
+  133  $a + $b
+  134  c=expr $a + $b
+  135  c=expr( $a + $b)
+  136  c=expr($a + $b)
+  137  expr $a + $b
+  138  echo *
+  139  echo "test page" > testpage
+  140  echo *
+  141  erm testpage
+  142  erm dir  testpage
+  143  erm dir testpage
+  144  erm testpage
+  145  echo *
+  146  erm > testpage
+  147  rm testpage
+  148  echo *
+  149  expr $a + $b
+  150  c= ($a + b)
+  151  COUNT='expr $a + $b'
+  152  echo $COUNT
+  153  COUNT=$('expr $a + $b')
+  154  COUNT=$(expr $a + $b)
+  155  echo $COUNT
+  156  c=$(expr $a + $b)
+  157  echo $c
+  158  d=$($a - $b)
+  159  d=$(expr $a - $b)
+  160  echo $d
+  161  echo "Test Page" > teksts.txt
+  162  echo *
+  163  pwd
+  164  ls -la
+  165  history > history.txt
