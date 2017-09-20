@@ -1,0 +1,69 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls .la
+    4  ls -la
+    5  ls -l
+    6  git clone https://github.com/modris1/DMI
+    7  ls -l
+    8  nano
+    9  ls -sl
+   10  cat git-download.sh
+   11  echo $PATH
+   12  whereis ls
+   13  ls
+   14  ls -l
+   15  ls -l bin/ls
+   16  ls -l /bin/ls
+   17  ls -l
+   18  chmod 744 git-download.sh
+   19  ls -l
+   20  ./git-download.sh
+   21  ~/git-download.sh
+   22  ./git-download.sh
+   23  ls
+   24  ./git-download.sh
+   25  ls
+   26  ./git-download.sh
+   27  ~/git-download.sh
+   28  ls -l
+   29* 
+   30  echo lmao
+   31  echo $path
+   32  echo $PATH
+   33  PATH=/home/user:$PATH
+   34  echo $PATH
+   35  git-download
+   36  git-download.sh
+   37  ls 
+   38  git-download.sh
+   39  nano git-download.sh
+   40  git-download.sh
+   41  ls -l
+   42  mv git-download.sh git-download
+   43  git-download
+   44  mkdir darbi
+   45  cd darbi
+   46  git-download
+   47  ls
+   48  ls -l
+   49  cd dmi
+   50  cd DMI
+   51  ls -l
+   52  ls -la
+   53  ls -l
+   54  whereis git-download
+   55  ls ~/
+   56  cp ~/git-download ./
+   57  ls -l
+   58  git upload
+   59  nano
+   60  nano git-upload
+   61  ls -l
+   62  chmod 744 git-upload
+   63  ls -l
+   64  ls -la
+   65  pwd
+   66  echo $PATH
+   67  PATH=$PATH:/home/user/darbi/DMI
+   68  git-upload
+   69  history > history_20170920.txt
