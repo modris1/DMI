@@ -1,0 +1,37 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/modris1/DMI
+    3  pwd
+    4  ls -la
+    5  ls
+    6  cd dmi
+    7  cd /dmi
+    8  cd DMI
+    9  ls
+   10  cd ..
+   11  pwd
+   12  cd DMI
+   13  ls -la
+   14  var1=koks
+   15  echo $var1
+   16  var2=2
+   17  echo $var2 $var1
+   18  ..
+   19  pwd
+   20  nano shell_programming.sh
+   21  ls -l
+   22  cat /etc/shells
+   23  chmod 744 shell_programming.sh
+   24  ls -l
+   25  shell_programming.sh
+   26  ./shell_programming.sh 
+   27  cat shell_programming.sh 
+   28  nano shell_programming.sh 
+   29  ./shell_programming.sh 
+   30  nano shell_programming.sh 
+   31  ./shell_programming.sh 
+   32  nano shell_programming.sh 
+   33  ls -l
+   34  nano git-upload
+   35  git-upload
+   36  nano git-upload
+   37  history > history_20170927.txt
