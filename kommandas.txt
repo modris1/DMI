@@ -1,0 +1,45 @@
+cat --> failu lasīšana
+cat /etc/*-releas --> izvada mašīnas OS datus
+cat /etc/shells --> izvada pieejamās faila programmēsānas valodas
+cd . --> paliek tajā pašā direktorijā
+cd .. --> atgriezties iepriekšējā direktorijā/pavirzās vienu direktoriju uz augšu
+cd [nosaukums] --> ieiet direktorijā no atrašanās vietas
+chmod 744 shell_programming.sh --> piešķir failam izpildīšanas atļauajs
+cp [nosaukums] - kopē failus vai dorektorijas
+echo $# --> Skriptam nodoto argumentu skaits
+echo $$ --> Skriptam piešķirtais procesa numrus
+echo $* --> Skriptam nodoti argumenti (attēlošana/grupēšana 1)
+echo $0 --> Skripta pildīšanas numurs
+echo $@ --> Skriptam nodoti argumenti (attēlošana/grupēšana 2)
+echo $var1 --> izvada terminālī tekstu no iepriekš piedefinētā mainīgā 'var1'
+echo ${name[*]} --> izvada masīva elementus
+echo -e "vienn\bs" --> '\b' izdzēš vienu rakstzīmi
+echo -e "viens\ndivi\ntrīs\nčetri" --> '-e' ņem vērā un atļauj lietot speciālos apzīmējumus, piemēram '\n', kas atdala tekstu jaunā rindā
+echo -e "viens\rdivi" --> '\r' izdzēš visu iepriekš rakstīto
+echo -e "viens\tdivi\ttrīs\tčetri" --> '\t' ievieto horizontālu atstarpi(TAB)
+echo -e "viens\tdivi\ttrīs\tčetri" --> '\v' ievieto vertikālu atstarpi(TAB)
+echo -n "teksts" --> nelieto jaunu rindu
+firefox & --> atver firefox, '&' atļauj izpildīt tālāk kommandas terminālī
+git clone https://github.com/modris1/DMI --> noklonē no adreses mapi uz lokālā diska
+history > histroy_20170927.txt --> ievieto termināļa vēsturi failā 'history_20170927.txt'
+ls --> parāda direktorijas atrašanās vietā
+ls -l --> parāda direktorijas un atļaujas aatrašanās vietā
+ls -la --> parāda visu failu saturu un atļaujas direktorijā
+man [kommanda] --> izvada pamācību konkrētajai kommandai
+mkdir [nosaukums] --> izveido direktoriju, ja tāda neeksistē
+mv [faila nosaukums] [faila nosaukums 2] --> pārsauc failu
+name[0]=modris --
+name[1]=modris1 --> Piedefinē masīva elementus,argumentus
+name[2]=modris2 --
+nano [nosaukums] --> teksta rediģētājs
+PATH=$PATH:[ceļš, piemēram, '/home/user/DMI'] --> piešķir sistēmai ceļu, kur meklēt izpildes failus
+pwd --> parāda atrašanos vietu sistēmā
+rmdir [nosaukums] --> dzēš direktoriju, ja tāda eksistē
+sum=$((var1 + var2)) --> piedefinē mainīgo 'sum' ar vērtību '5', ko iegūst saskaitot mainīgos $var1 un $var2
+uname -r --> izvada linux versiju
+var1=2 -- > piedefinē mainīgo ar vērtību '2'
+var1=koks --> piedefinē mainīgo 'var1' un piešķir tam vērtību 'koks'
+var2=3 -- > piedefinē mainīgo ar vērtību '3'
+whereis [nosaukums] --> parāda faila atrašanās vietu
+who --> izvada kopējos lietotājus/pieslēgušos lietotājus
+whoami --> izvada pašreizējo lietotāju
