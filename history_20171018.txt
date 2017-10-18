@@ -1,0 +1,92 @@
+    1  VirtualBox --startvm XP
+    2  nano dialogs.sh
+    3  ls
+    4  dialogs
+    5  nano dialogs.sh
+    6  chmod 744 dialogs.sh
+    7  ls
+    8  ./dialogs.sh
+    9  nano dialogs.sh
+   10  ./dialogs.sh
+   11  nano dialogs.sh
+   12  cat dialogs.sh
+   13  nano dialogs.sh
+   14  ./dialogs.sh
+   15  nano dialogs.sh
+   16  ./dialogs.sh
+   17  nano dialogs.sh
+   18  ./dialogs.sh
+   19  nano dialogs.sh
+   20  c=4
+   21  b=5
+   22  echo $c
+   23  echo $c $b
+   24  echo 'summa' $c $b
+   25  echo 'summa'$c $b
+   26  nano dialogs.sh
+   27  ./dialogs.sh
+   28  nano dialogs.sh
+   29  ./dialogs.sh
+   30  nano dialogs.sh
+   31  ./dialogs.sh
+   32  nano dialogs.sh
+   33  ./dialogs.sh
+   34  nano dialogs.sh
+   35  ./dialogs.sh
+   36  nano dialogs.sh
+   37  ./dialogs.sh
+   38  54
+   39  32
+   40  ./dialogs.sh
+   41  nano dialogs.sh
+   42  ./dialogs.sh
+   43  nano dialogs.sh
+   44  ./dialogs.sh
+   45  nano dialogs.sh
+   46  ./dialogs.sh
+   47  nano dialogs.sh
+   48  ./dialogs.sh
+   49  nano dialogs.sh
+   50  ./dialogs.sh
+   51  nano dialogs.sh
+   52  ./dialogs.sh
+   53  nano dialogs.sh
+   54  ./dialogs.sh
+   55  nano dialogs.sh
+   56  ./dialogs.sh
+   57  nano dialogs.sh
+   58  ./dialogs.sh
+   59  nano dialogs.sh
+   60  ./dialogs.sh
+   61  nano dialogs.sh
+   62  ls -l
+   63  cp dialogs.sh a_VS_b_VS_c.sh
+   64  ls
+   65  nano a_VS_b_VS_c.sh
+   66  ./a_VS_b_VS_c.sh
+   67  nano a_VS_b_VS_c.sh
+   68  ./a_VS_b_VS_c.sh
+   69  nano a_VS_b_VS_c.sh
+   70  ./a_VS_b_VS_c.sh
+   71  nano a_VS_b_VS_c.sh
+   72  ./a_VS_b_VS_c.sh
+   73  nano a_VS_b_VS_c.sh
+   74  ./a_VS_b_VS_c.sh
+   75  nano a_VS_b_VS_c.sh
+   76  ./a_VS_b_VS_c.sh
+   77  nano a_VS_b_VS_c.sh
+   78  ls
+   79  nano dialogs.sh
+   80  nano a_VS_b_VS_c.sh
+   81  ./a_VS_b_VS_c.sh
+   82  nano a_VS_b_VS_c.sh
+   83  ./a_VS_b_VS_c.sh
+   84* 
+   85  ./a_VS_b_VS_c.sh
+   86  nano git-upload
+   87  nano a_VS_b_VS_c.sh
+   88  nano git-upload
+   89  git-upload
+   90  ./git-upload
+   91  nano git-upload
+   92  history > history_20171018.txt
