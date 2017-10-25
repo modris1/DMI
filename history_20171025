@@ -1,0 +1,155 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/modris1/DMI
+    3  ls
+    4  cd DMI
+    5  ld
+    6  ls
+    7  nano if_operator.sh
+    8  ./if_operator.sh
+    9  chmod 744 tf-operator.sh
+   10  ls
+   11  chmod 744 if_operator.sh
+   12  ls
+   13  ./if_operator.sh
+   14  if_operator.sh
+   15  ./if_operator.sh
+   16  cat if_operator.sh
+   17  ./if_operator.sh
+   18  cat if_operator.sh
+   19  ./if_operator.sh
+   20  nano if_operator.sh
+   21  ./if_operator.sh
+   22  nano if_operator.sh
+   23  ./if_operator.sh
+   24  nano if_operator.sh
+   25  ./if_operator.sh
+   26  ./if_operator.sh 1
+   27  ./if_operator.sh -1
+   28  nano if_operator.sh
+   29  ./if_operator.sh 2
+   30  nano if_operator.sh
+   31  ./if_operator.sh 2
+   32  nano if_operator.sh
+   33  ./if_operator.sh 2
+   34  nano if_operator.sh
+   35  ./if_operator.sh 2
+   36  nano if_operator.sh
+   37  ./if_operator.sh 2
+   38  nano if_operator.sh
+   39  ./if_operator.sh 2
+   40  nano if_operator.sh
+   41  ./if_operator.sh 1
+   42  ./if_operator.sh 10
+   43  ./if_operator.sh 2
+   44  nano if_operator.sh
+   45  ./if_operator.sh 2
+   46* 
+   47  nano if_operator.sh
+   48  ./if_operator.sh 10
+   49  ./if_operator.sh 1
+   50  ./if_operator.sh 0
+   51  nano if_operator.sh
+   52  ./if_operator.sh 1
+   53  ./if_operator.sh 0.5
+   54  ./if_operator.sh 0,5
+   55  nano if_operator.sh
+   56  ./if_operator.sh 0
+   57  ./if_operator.sh 1
+   58  ./if_operator.sh 2
+   59  ./if_operator.sh 3
+   60  ./if_operator.sh 4
+   61  nano if_operator.sh
+   62  ./if_operator.sh 4 4 5
+   63  ./if_operator.sh 1 2 3
+   64  nano if_operator.sh
+   65  ./if_operator.sh 1 2 3
+   66  nano if_operator.sh
+   67  ./if_operator.sh 1 2 3
+   68  nano if_operator.sh
+   69  ./if_operator.sh 1 2 3
+   70  nano if_operator.sh
+   71  ./if_operator.sh 1 2 3
+   72  nano if_operator.sh
+   73  ./if_operator.sh 1 2 3
+   74  nano if_operator.sh
+   75  ./if_operator.sh 1 2 3
+   76  nano if_operator.sh
+   77  ./if_operator.sh 5 7 4
+   78  nano if_operator.sh
+   79  ./if_operator.sh 10 9 7
+   80  nano if_operator.sh
+   81  ./if_operator.sh 10 9 7
+   82  nano if_operator.sh
+   83  ./if_operator.sh 10 9 7
+   84  nano if_operator.sh
+   85  ./if_operator.sh 10 9 7
+   86  nano if_operator.sh
+   87  ./if_operator.sh 10 9 7
+   88  nano if_operator.sh
+   89  ./if_operator.sh 10 9 7
+   90  nano if_operator.sh
+   91  ./if_operator.sh 10 9 7
+   92  nano if_operator.sh
+   93  ./if_operator.sh 10 9 7
+   94  nano if_operator.sh
+   95  ./if_operator.sh 10 9 7
+   96  ./if_operator.sh 9 7 10
+   97  nano if_operator.sh
+   98  ./if_operator.sh 9 7 10
+   99  nano if_operator.sh
+  100  ./if_operator.sh 9 7 10
+  101  nano if_operator.sh
+  102  ./if_operator.sh 9 7 10
+  103  nano if_operator.sh
+  104  ./if_operator.sh 9 7 10
+  105  nano if_operator.sh
+  106  ./if_operator.sh 9 7 10
+  107  nano if_operator.sh
+  108  ./if_operator.sh 9 7 10
+  109  nano if_operator.sh
+  110  ./if_operator.sh 9 7 10
+  111  nano if_operator.sh
+  112  ./if_operator.sh 9 7 10
+  113  nano if_operator.sh
+  114  ./if_operator.sh 9 7 10
+  115  nano if_operator.sh
+  116  nano array.sh
+  117  ./array.sh
+  118  chmod 744 array.sh
+  119  ./array.sh
+  120  chmod 744 array.sh
+  121  ./array.sh
+  122  nano array.sh
+  123  ./array.sh
+  124  ./array.sh 1 2 3
+  125  nano array.sh
+  126  ./array.sh 1 2 3
+  127  nano array.sh
+  128  ./array.sh 1 2 3
+  129  nano array.sh
+  130  ./array.sh 1 2 3
+  131  nano array.sh
+  132  ./array.sh 1 2 3
+  133  nano array.sh
+  134  ./array.sh 1 2 3
+  135  ./array.sh 3 5 6
+  136  ./array.sh 6 5 4
+  137  nano array.sh
+  138  ./array.sh 6 5 4
+  139  nano array.sh
+  140  ./array.sh 6 5 4
+  141  nano array.sh
+  142  ./array.sh 6 5 4
+  143  nano array.sh
+  144  ./array.sh 6 5 4
+  145  nano array.sh
+  146  ./array.sh 6 5 4
+  147  nano array.sh
+  148  ./array.sh 6 5 4
+  149  nano array.sh
+  150  ./array.sh 6 5 4
+  151  nano array.sh
+  152  ./array.sh 6 5 4
+  153  nano array.sh
+  154  ./array.sh 6 5 4
+  155  history > history_20171025
